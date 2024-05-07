@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1705175195 source:c:\users\hp\desktop\new folder\petproject\src\pet.cpp
+	"Pet.h"
+
+1705160220 c:\users\hp\desktop\new folder\petproject\include\pet.h
+	<iostream>
+	<string>
+
+1705175206 source:c:\users\hp\desktop\new folder\petproject\src\dogs.cpp
+	"dogs.h"
+
+1705160648 c:\users\hp\desktop\new folder\petproject\include\dogs.h
+	<Pet.h>
+	<iostream>
+	<string>
+
+1705175222 source:c:\users\hp\desktop\new folder\petproject\src\birds.cpp
+	"Birds.h"
+
+1705160648 c:\users\hp\desktop\new folder\petproject\include\birds.h
+	<Pet.h>
+	<iostream>
+	<string>
+
+1705245505 source:c:\users\hp\desktop\new folder\petproject\main.cpp
+	<iostream>
+	<string>
+	<Pet.h>
+	<Dogs.h>
+	<Cats.h>
+	<Birds.h>
+	<Adoptioncenter.h>
+
+1705160648 c:\users\hp\desktop\new folder\petproject\include\cats.h
+	<pet.h>
+	<iostream>
+	<string>
+
+1705246539 source:c:\users\hp\desktop\new folder\petproject\src\adoptioncenter.cpp
+	"Adoptioncenter.h"
+
+1705243258 c:\users\hp\desktop\new folder\petproject\include\adoptioncenter.h
+	<Pet.h>
+	<Birds.h>
+	<Cats.h>
+	<Dogs.h>
+	<iostream>
+	<string>
+
+1705175214 source:c:\users\hp\desktop\new folder\petproject\src\cats.cpp
+	"cats.h"
+
